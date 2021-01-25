@@ -1,3 +1,5 @@
 #!/bin/sh
 # TODO(#2): Fix executable flag when doing `snitch report`
 #   This file should stay executable when calling `snitch report`.
+
+# TODO: Another issue that should fix the problem
